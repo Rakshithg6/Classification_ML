@@ -1,5 +1,4 @@
 # Classification_ML
-# Classification in Machine Learning README
 
 ## Overview
 This repository contains code for implementing classification algorithms in machine learning. Classification is a supervised learning task where the goal is to categorize input data into one of several predefined classes or categories. This README provides an overview of classification, its algorithms, and instructions for usage.
