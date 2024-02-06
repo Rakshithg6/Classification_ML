@@ -38,4 +38,4 @@ To utilize classification algorithms in your machine learning projects, follow t
 Explore the examples directory for sample scripts demonstrating how to implement classification algorithms using different datasets and techniques.
 
 ## Contributors
-- Rakshith G (https://github.com/Rakshithg6)
+- Rakshith G [Github](https://github.com/Rakshithg6)
